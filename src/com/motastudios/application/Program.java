@@ -11,6 +11,7 @@ public class Program {
 		String hi = sc.nextLine();
 		System.out.println(hi);
 		System.out.println("falae bixo");
+		System.out.println("Tudo bem?");
 		sc.close();
 		System.exit(0);
 
